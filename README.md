@@ -8,10 +8,12 @@ You can find the Jupyter Notebook that I used to ellaborate the data and reach t
 
 and also you may find interesting the Notebook I programmed to specifically extract Los Angeles data from the Wikipedia:
 
-[Los Angeles Wikipedia Extractor](https://github.com/ypsarthy/Coursera_Capstone/blob/master/Los%20Angeles%20Wikipedia%20Extractor.ipynb)
+[Los Angeles Wikipedia Extractor]
+(https://github.com/ypsarthy/Coursera_Capstone/blob/master/Los%20Angeles%20Wikipedia%20Extractor.ipynb)
 
 # The presentation
-[Regression to Pasta PDF](https://github.com/pangodream/Coursera_Capstone/blob/master/Battle_of_Neighborhoods/Week_2/Regression%20to%20Pasta.pdf)
+[Regression to Pasta PDF] 
+(https://github.com/ypsarthy/Coursera_Capstone/blob/master/Regression%20to%20Pasta.pdf)
 
 [Regression to Pasta Powerpoint](https://github.com/pangodream/Coursera_Capstone/blob/master/Battle_of_Neighborhoods/Week_2/Regression%20to%20Pasta.pptx?raw=true)
 
