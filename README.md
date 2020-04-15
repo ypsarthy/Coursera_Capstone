@@ -4,7 +4,7 @@
 # The project (Jupyter Notebook)
 You can find the Jupyter Notebook that I used to ellaborate the data and reach the final conclusions here:
 
-[Los Angeles New restaurant Project](https://github.com/pangodream/Coursera_Capstone/blob/master/Battle_of_Neighborhoods/Week_2/LosAngelesFoursquareAndGeo.ipynb)
+[Los Angeles New restaurant Project](https://github.com/ypsarthy/Coursera_Capstone/blob/master/Los%20Angeles%20New%20restaurant%20Project.ipynb)
 
 and also you may find interesting the Notebook I programmed to specifically extract Los Angeles data from the Wikipedia:
 
