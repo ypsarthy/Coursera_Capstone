@@ -13,7 +13,7 @@ and also you may find interesting the Notebook I programmed to specifically extr
 # The presentation
 [Regression to Pasta PDF](https://github.com/ypsarthy/Coursera_Capstone/blob/master/Regression%20to%20Pasta.pdf)
 
-[Regression to Pasta Powerpoint](https://github.com/pangodream/Coursera_Capstone/blob/master/Battle_of_Neighborhoods/Week_2/Regression%20to%20Pasta.pptx?raw=true)
+[Regression to Pasta Powerpoint] https://github.com/ypsarthy/Coursera_Capstone/blob/master/Regression%20to%20Pasta.pptx)
 
 # The Report
 ## 1.- Introduction (Business requirements)
