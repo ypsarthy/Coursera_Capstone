@@ -60,7 +60,7 @@ Data filtering and transformation will be done always on the origina data, and n
 
 The original data is contained in two different csv files:
 
-* [Neighborhoods .csv file](https://github.com/pangodream/Coursera_Capstone/blob/master/Battle_of_Neighborhoods/Week_2/LosAngeles.csv)
+* [Neighborhoods .csv file](https://github.com/ypsarthy/Coursera_Capstone/blob/master/LosAngeles.csv)
 * [Venues .csv file](https://github.com/pangodream/Coursera_Capstone/blob/master/Battle_of_Neighborhoods/Week_2/LosAngelesVenues.csv)
 
 ## 5.- Methodology
